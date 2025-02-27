@@ -16,7 +16,7 @@
 
 ## Overview
 
-### The challenge
+## The challenge
 
 Users should be able to:
 
@@ -29,7 +29,7 @@ Users should be able to:
 - View the optimal layout for the interface depending on their device's screen size
 - See hover and focus states for all interactive elements on the page
 
-### Screenshots
+## Screenshots
 ![Desktop](Desktop.png)
 ![Mobile](Mobile.png)
 ![Success state](success-screeshot.png)
@@ -38,7 +38,7 @@ Users should be able to:
 
 ## My process
 
-### Built with
+## Built with
 
 - Semantic HTML5 markup
 - CSS custom properties
