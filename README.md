@@ -10,13 +10,13 @@
 
 -[Built with](#built-with)
 
-- [My process](#my-process)
+-[My process](#my-process)
 
-- [Built with](#built-with)
+-[Built with](#built-with)
 
 ## Overview
 
-## The challenge
+## Challenge
 
 Users should be able to:
 
@@ -30,6 +30,7 @@ Users should be able to:
 - See hover and focus states for all interactive elements on the page
 
 ## Screenshots
+
 ![Desktop](Desktop.png)
 ![Mobile](Mobile.png)
 ![Success state](success-screeshot.png)
